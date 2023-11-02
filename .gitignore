@@ -1,0 +1,31 @@
+# gitignore django
+
+venv
+env
+
+# pycharm
+
+.idea
+
+
+
+
+
+# django
+
+*.pyc
+*.pyo
+
+# database
+
+*.sqlite3
+
+# logs
+
+*.log
+
+# testing
+__pycache__
+
+
+
